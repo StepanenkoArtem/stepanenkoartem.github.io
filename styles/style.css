@@ -7,7 +7,37 @@ h1 {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 15pt;
     align-content: flex-start;
+    font-weight: bolder ;
 }
 aside>article {
     color: blueviolet;
 }
+div {
+    width: 500px;
+    height: 500px;
+  
+    background: #333333;
+  }
+  
+  #main {
+    color: white;
+    width: 750px;
+  }
+  
+  .text-white {
+    color: white;
+  }
+  
+  .alert {
+    height: 350px;
+    color: gray;
+  }
+  
+  div {
+    background: blue;
+  }
+  
+  .alert-warning {
+    background: #000000;
+    color: yellow;
+  }
