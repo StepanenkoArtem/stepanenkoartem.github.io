@@ -2,3 +2,12 @@ h1 {
     font-size: 110pt;
     color: rgba(47, 44, 221, 0.333);
 }
+
+.leftside {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 15pt;
+    align-content: flex-start;
+}
+aside>article {
+    color: blueviolet;
+}
