@@ -6,7 +6,6 @@ h1 {
 .leftside {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 15pt;
-    align-content: flex-start;
     font-weight: bolder ;
 }
 aside>article {
@@ -15,8 +14,6 @@ aside>article {
 div {
     width: 500px;
     height: 500px;
-  
-    background: #333333;
   }
   
   #main {
