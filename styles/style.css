@@ -11,8 +11,9 @@ h1 {
 
 .text {
   font-size: medium;
+  width: 40%;
 }
 
 .image {
-  width: 50%;
+  width: 40%;
 }
