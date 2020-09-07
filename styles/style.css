@@ -1,39 +1,18 @@
-h1 {
-    font-size: 36pt;
-    color: rgba(47, 44, 221, 0.333);
+body {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
-.leftside {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-size: 15pt;
-    font-weight: bolder ;
+h1 {
+  font-size: xx-large ;}
+
+.fullwidth {
+  width: 80%;
 }
-.main-pic {
-  width: 500px;
+
+.text {
+  font-size: medium;
 }
-aside>article {
-    color: blueviolet;
+
+.image {
+  width: 50%;
 }
-div {
-    width: 500px;
-    height: 500px;
-  }
-  
-  #main {
-    color: white;
-    width: 750px;
-  }
-  
-  .text-white {
-    color: white;
-  }
-  
-  .alert {
-    height: 350px;
-    color: gray;
-  }
-  
-  .alert-warning {
-    background: #570270;
-    color: yellow;
-  }
