@@ -8,6 +8,9 @@ h1 {
     font-size: 15pt;
     font-weight: bolder ;
 }
+.main-pic {
+  width: 50%;
+}
 aside>article {
     color: blueviolet;
 }
