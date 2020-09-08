@@ -10,15 +10,12 @@ body {
 h1 {
   font-size: xx-large ;}
 
-.fullwidth {
-  width: 80%;
-}
-
-.text {
+  .text {
   font-size: medium;
   width: 40%;
 }
 
-.image {
+.photo {
   width: 40%;
+  border: solid 2px #454545;
 }
