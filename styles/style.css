@@ -6,16 +6,19 @@ body {
 }
 
 h1 {
-  font-size: xx-large ;}
-
-  .text {
-  font-size: medium;
-  float: left;
-  width: 40%;
+  font-size: xx-large ;
 }
 
-.photo {
-  float: left;
+.text {
+position: relative;
+font-size: medium;
+float: left;
+width: 40%;
+}
+
+.photo>img {
+  position: absolute;
+  right: 0;
   width: 400px;
   border: solid 2px #454545;
 }
