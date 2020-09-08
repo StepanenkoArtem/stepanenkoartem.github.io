@@ -3,8 +3,6 @@ body {
 }
 .content {
   width: 75%;
-  align-items: center;
-  border: solid 3px #454545;
 }
 
 h1 {
@@ -12,10 +10,12 @@ h1 {
 
   .text {
   font-size: medium;
+  float: left;
   width: 40%;
 }
 
 .photo {
-  width: 40%;
+  float: left;
+  width: 400px;
   border: solid 2px #454545;
 }
