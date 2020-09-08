@@ -10,15 +10,9 @@ h1 {
 }
 
 .text {
-position: relative;
 font-size: medium;
-float: left;
-width: 40%;
 }
 
 .photo>img {
-  position: absolute;
-  right: 0;
-  width: 400px;
-  border: solid 2px #454545;
+border: solid 2px #454545;
 }
