@@ -24,11 +24,12 @@ h1 {
 .card>p{
   display: flex;
   position: absolute;
-  bottom: 0;
+  top: 0;
   right: 0;
   padding: 10px;
   color: wheat;
   font-size: medium;
+  text-align: left;
 }
 .content {
   display: flex;
