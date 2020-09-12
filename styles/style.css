@@ -3,7 +3,7 @@ body {
 }
 
 main {
-  display: flex;
+  display: block;
 }
 
 .content {
@@ -14,12 +14,4 @@ main {
 
 h1 {
   font-size: xx-large ;
-}
-
-.text {
-font-size: medium;
-}
-
-.photo>img {
-border: solid 2px #454545;
 }
